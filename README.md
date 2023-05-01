@@ -1,5 +1,7 @@
 # Hematite Data 2022-2023
 
+[![DOI](https://zenodo.org/badge/635059072.svg)](https://zenodo.org/badge/latestdoi/635059072)
+
 This repository contains all of the raw data used in Jenna Everard's (jenna.everard@columbia.edu) senior thesis submitted May 1st, 2023 to the Barnard College Department of Environmental Science.
 
 
